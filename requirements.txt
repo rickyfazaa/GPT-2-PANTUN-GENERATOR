@@ -1,0 +1,7 @@
+numpy
+matplotlib
+Pillow
+requests
+transformers[torch]
+streamlit
+streamlit-chat
